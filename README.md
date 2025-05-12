@@ -9,5 +9,10 @@ npx cypress run --headless --browser chrome
 To `Debug` Cypress tests you need to run
 
 ```
-DEBUG=cypress:* npx cypress run
+npx cypress open
 ```
+## Created documentation:
+
+- [Git strategy](./docs/git-strategy.md)
+
+- [Hotkeys](./docs/hotkeys.md)
